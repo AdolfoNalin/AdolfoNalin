@@ -1,7 +1,7 @@
-# Olá, eu me chamo Adolfo Nalin!
+# Olá, eu me chamo Adolfo e sou desenvolvedor júnior C#!
 
 - 🔭 Hoje eu trabalho com BackEnd
-- 🌱 Estudando a linguagem C# (CSharp)
+- 🌱 Experiente na linguagem C# e Windows From
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
